@@ -1,4 +1,4 @@
-# Data-Insights-Dashboard
+# Sales-Insights-Dashboard
 Sales Insights Data Analysis Project
 Instructions to setup mysql on your local computer
 1. Follow step in this video to install mysql on your local computer https://www.youtube.com/watch?v=WuBcTJnIuzo
